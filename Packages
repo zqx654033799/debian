@@ -1,0 +1,15 @@
+Package: com.xunlei.download
+Version: 1.0.0.1
+Architecture: amd64
+Maintainer: xllinux <xllinux@xunlei.com>
+Installed-Size: 173068
+Filename: ./deb/com.xunlei.download_1.0.0.1_amd64.deb
+Size: 49115280
+MD5sum: 203327a4d0cdc0dd25b629849c91bcbb
+SHA1: 52af6afdb2a2dd684e726888fef3316c55179759
+SHA256: f27acdf1ad739e7f89da0ed31ed628014ea27f8338dabd17c3ec5c8020d30637
+Section: net
+Priority: optional
+Description: xunlei download
+ xunlei download p2p
+
